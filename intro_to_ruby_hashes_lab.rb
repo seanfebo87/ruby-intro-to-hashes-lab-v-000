@@ -16,7 +16,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  
+  return monopoly = {:railroads => {:pieces => 4, :names => {}, :rent_in_dollars => {:onepiece_owned => 25}}}
 end
 
 def monopoly_with_fourth_tier
